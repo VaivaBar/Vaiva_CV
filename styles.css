@@ -1,0 +1,39 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+background-color: #c0a6d04e;
+}
+.contacts {
+background-color: #d094eb;
+display: flex;
+justify-content: center;
+justify-content: center;
+}
+.contacts h1, p {
+text-align: center;
+}
+.professional_summary {
+background-color: aquamarine;
+text-align: center;
+}
+.professional_summary p {
+text-align: left;
+
+}
+.professional_summary h3 {
+margin-top: 15px;    
+}
+.professional_summary p {
+margin-bottom: auto;    
+}
+.skills {
+margin-top: auto;
+background-color: bisque;
+
+}
+.skills h3 {
+margin-top: 15px;
+text-align: center;
+}
